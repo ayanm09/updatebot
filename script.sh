@@ -19,7 +19,7 @@ else
 fi
 
 # Check if user has forked or has the same repo name
-echo "Have you forked UserBot from ayanm09"
+echo "Have you forked UserBot from marshmello61/ayanm09"
 echo -n "or has the same repo name i.e. UserBot? [y/n]: "
 read fork
 echo " "
